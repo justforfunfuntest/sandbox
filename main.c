@@ -8,3 +8,7 @@ int foo(int a) {
   }
   return 0;
 }
+
+int main(int argc, const char* argv[] ) {
+
+}
