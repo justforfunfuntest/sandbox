@@ -10,5 +10,5 @@ int foo(int a) {
 }
 
 int main(int argc, const char* argv[] ) {
-
+  int num = argc;
 }
